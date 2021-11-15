@@ -1,7 +1,8 @@
 {
+  "products":
   [
-  "productid" : 1,
-  "productname": "Netflix",
-  "price": 19000
+    "productid" : 1,
+    "productname": "Netflix",
+    "price": 19000
   ]
  }
