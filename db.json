@@ -1,8 +1,11 @@
 {
-  "products":
-  [
-    "productid" : 1,
-    "productname": "Netflix",
-    "price": 19000
-  ]
- }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
